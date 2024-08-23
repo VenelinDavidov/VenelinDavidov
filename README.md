@@ -1,4 +1,5 @@
 ## Hi I'm Venelin Davidov! 👋
+![Java-Logo](https://github.com/user-attachments/assets/0dbcdf39-e79b-473a-a88c-ce5d9ee0bc61)
 📈 My GitHub Stats:
 <p>
   <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=venelindavidov&hide=issues&show_icons=true&count_private=true"/>
