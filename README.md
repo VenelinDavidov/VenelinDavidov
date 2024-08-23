@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+📈 My GitHub Stats:
+<p>
+  <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=markovsvetlin&hide=issues&show_icons=true&count_private=true"/>
+  <img height="180em" width="333px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markovsvetlin&layout=compact&hide=handlebars"/>
+</p>
 <!--
 **VenelinDavidov/VenelinDavidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
