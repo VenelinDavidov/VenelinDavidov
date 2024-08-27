@@ -1,6 +1,5 @@
 ## Hi I'm Venelin Davidov! 👋
 ![Java-Logo](https://github.com/user-attachments/assets/0dbcdf39-e79b-473a-a88c-ce5d9ee0bc61)
-https://camo.githubusercontent.com/1245ae36f43eb8d1e232cf18ce5c103306de4f62cca31e1f28fd06edd73f3c16/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6a732c68746d6c2c6373732c6d6176656e2c6769746875622c696465612c706f73746d616e2c6669676d61
 📈 My GitHub Stats:
 <p>
   <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=venelindavidov&hide=issues&show_icons=true&count_private=true"/>
