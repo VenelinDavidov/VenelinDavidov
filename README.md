@@ -3,6 +3,7 @@
 📈 My GitHub Stats:
 <p>
   <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=venelindavidov&hide=issues&show_icons=true&count_private=true"/>
+  
   <img height="180em" width="333px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelindavidov&layout=compact&hide=handlebars"/>
 </p>
 <!--
