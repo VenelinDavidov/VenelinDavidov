@@ -2,9 +2,11 @@
 ![1_9saq74XYQzqOjftIEOzhTQ](https://github.com/user-attachments/assets/942b44e8-20a8-4690-b1b8-13c38c3ccc96)
 📈 My GitHub Stats:
 <p>
-  <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=venelindavidov&hide=issues&show_icons=true&count_private=true"/>
-  
-  <img height="180em" width="333px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelindavidov&layout=compact&hide=handlebars"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelindavidov&theme=github_dark" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelindavidov&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelindavidov&theme=github_dark" />
 </p>
 <!--
 **VenelinDavidov/VenelinDavidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
