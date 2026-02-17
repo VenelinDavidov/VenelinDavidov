@@ -8,8 +8,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelindavidov&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelindavidov&theme=github_dark" />
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=venelindavidov&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelindavidov&theme=github_dark" />
 </p>
 
 <!--
